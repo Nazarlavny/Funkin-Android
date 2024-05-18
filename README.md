@@ -11,3 +11,6 @@ https://github.com/Nazarlavny/Funkin-Android/releases
 ninjamuffin99 - Programmer, PhantomArcade3K - Art, Evilsk8r - Art, Kawaisprite - Musician, Nazarlavny (me!) - android port
 
 This game was made with love to Newgrounds and it's community. Extra love to Tom Fulp.
+
+# Telegram
+t.me/FunkinAndroid
