@@ -8,8 +8,8 @@ IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMIPLED VERSION, YOU MUST OPEN 
 https://github.com/luckydog7/Funkin-android/releases
 
 # Credits / shoutouts
-@ninjamuffin99 - Programmer
-@PhantomArcade3K and Evilsk8r - Art
-@Kawaisprite - Musician
-@Nazarlavny (me!) - android port
+ninjamuffin99 - Programmer
+PhantomArcade3K and Evilsk8r - Art
+Kawaisprite - Musician
+Nazarlavny (me!) - android port
 This game was made with love to Newgrounds and it's community. Extra love to Tom Fulp.
