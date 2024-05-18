@@ -5,7 +5,7 @@ Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-
 IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMIPLED VERSION, YOU MUST OPEN SOURCE YOUR MOD AS WELL
 
 # download
-https://github.com/luckydog7/Funkin-Android/releases
+https://github.com/Nazarlavny/Funkin-Android/releases
 
 # Credits / shoutouts
 ninjamuffin99 - Programmer, PhantomArcade3K - Art, Evilsk8r - Art, Kawaisprite - Musician, Nazarlavny (me!) - android port
