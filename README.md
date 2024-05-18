@@ -9,7 +9,9 @@ https://github.com/luckydog7/Funkin-Android/releases
 
 # Credits / shoutouts
 • ninjamuffin99 - Programmer
-• PhantomArcade3K and Evilsk8r - Art
+• PhantomArcade3K - Art
+• Evilsk8r - Art
 • Kawaisprite - Musician
 • Nazarlavny (me!) - android port
+
 This game was made with love to Newgrounds and it's community. Extra love to Tom Fulp.
