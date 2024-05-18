@@ -13,4 +13,4 @@ ninjamuffin99 - Programmer, PhantomArcade3K - Art, Evilsk8r - Art, Kawaisprite -
 This game was made with love to Newgrounds and it's community. Extra love to Tom Fulp.
 
 # Telegram
-t.me/FunkinAndroid
+https://t.me/FunkinAndroid
